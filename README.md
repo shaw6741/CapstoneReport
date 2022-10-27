@@ -62,6 +62,5 @@ It optimised each delivery by selecting drivers that would satisfy a delivery wi
 ## Projected Impact
 <img src="https://github.com/shaw6741/CapstoneReport/blob/master/images/Slide12.JPG" width=80% height=80%>
 
-## Limitations & Next Steps
-<img src="https://github.com/shaw6741/CapstoneReport/blob/master/images/Slide13.JPG" width=50% height=50%>
-<img src="https://github.com/shaw6741/CapstoneReport/blob/master/images/Slide15.JPG" width=50% height=50%>
+## Next Steps
+<img src="https://github.com/shaw6741/CapstoneReport/blob/master/images/Slide15.JPG" width=80% height=80%>
