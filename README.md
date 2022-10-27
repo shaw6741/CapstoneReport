@@ -10,9 +10,9 @@ To encourage driver retention & greater revenue generation:
 - Proposed a strategic pricing project
 
 ## Implementation & Rationale
-<img src="https://github.com/shaw6741/CapstoneReport/blob/master/images/Slide7.JPG" width=50% height=50%>
+<img src="https://github.com/shaw6741/CapstoneReport/blob/master/images/Slide7.JPG" width=80% height=80%>
 
-<img src="https://github.com/shaw6741/CapstoneReport/blob/master/images/Slide8.JPG" width=50% height=50%>
+<img src="https://github.com/shaw6741/CapstoneReport/blob/master/images/Slide8.JPG" width=80% height=80%>
 
 ## Methodology
 <img src="https://github.com/shaw6741/CapstoneReport/blob/master/images/Slide9.JPG" width=80% height=80%>
@@ -23,13 +23,13 @@ delivery-related variables were used. A delivery was assigned a rarity score bas
 it was to the cluster it belonged to. Price adjustments were then calculated based off of the rarities. The
 new prices then translated to an increase in revenue.
 
-<img src="https://github.com/shaw6741/CapstoneReport/blob/master/images/Slide10.JPG" width=50% height=50%>
+<img src="https://github.com/shaw6741/CapstoneReport/blob/master/images/Slide10.JPG" width=80% height=80%>
 
 ### Regression & Classification
 To give the best outcomes for the drivers and customers, we maximized both the DIFOT probability
 and the price.
 
-<img src="https://github.com/shaw6741/CapstoneReport/blob/master/images/Slide11.JPG" width=50% height=50%>
+<img src="https://github.com/shaw6741/CapstoneReport/blob/master/images/Slide11.JPG" width=80% height=80%>
 
 __Classification for DIFOT:__
 DIFOT: Delivery In Full On Time, 0 or 1
@@ -60,7 +60,7 @@ It optimised each delivery by selecting drivers that would satisfy a delivery wi
 <img src="https://github.com/shaw6741/CapstoneReport/blob/master/images/recommendation%20system%20workflow.png" width=80% height=80%>
 
 ## Projected Impact
-<img src="https://github.com/shaw6741/CapstoneReport/blob/master/images/Slide12.JPG" width=50% height=50%>
+<img src="https://github.com/shaw6741/CapstoneReport/blob/master/images/Slide12.JPG" width=80% height=80%>
 
 ## Limitations & Next Steps
 <img src="https://github.com/shaw6741/CapstoneReport/blob/master/images/Slide13.JPG" width=50% height=50%>
